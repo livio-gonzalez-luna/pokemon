@@ -59,9 +59,9 @@ class Pokedex:
             else:
                 print("Invalid choice, try again...")
    
-# Example usage
-pokedex = Pokedex()
-pokedex.run()
+# # Example usage
+# pokedex = Pokedex()
+# pokedex.run()
 
 
 

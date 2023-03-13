@@ -1,0 +1,2094 @@
+{
+    "Bulbasaur": {
+        "name": "Bulbasaur",
+        "type": ["Grass", "Poison"],
+        "species": "Seed Pokemon",
+        "pokedexId": "001",
+        "height": "0.7 m",
+        "weight": "6.9 kg",
+        "level": 5,
+        "experience": 0,
+        "moves": ["Tackle", "Growl", "Leech Seed"],
+        "evolution": { "next": [["002", "Level 16"]] },
+        "baseStats": {
+            "hp": 45,
+            "attack": 49,
+            "defense": 49,
+            "specialAttack": 65,
+            "specialDefense": 65,
+            "speed": 45
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 45,
+        "baseFriendship": 70
+    },
+    "Ivysaur": {
+        "name": "Ivysaur",
+        "type": ["Grass", "Poison"],
+        "species": "Seed Pokemon",
+        "pokedexId": "002",
+        "height": "1.0 m",
+        "weight": "13.0 kg",
+        "level": 16,
+        "experience": 0,
+        "moves": ["Tackle", "Growl", "Leech Seed", "Vine Whip", "Poison Powder", "Sleep Powder", "Take Down", "Razor Leaf", "Sweet Scent", "Growth", "Double-Edge"],
+        "evolution": { "next": [["003", "Level 32"]] },
+        "baseStats": {
+            "hp": 60,
+            "attack": 62,
+            "defense": 63,
+            "specialAttack": 80,
+            "specialDefense": 80,
+            "speed": 60
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 45,
+        "baseFriendship": 70
+    },
+    "Venusaur": {
+        "name": "Venusaur",
+        "type": ["Grass", "Poison"],
+        "species": "Seed Pokemon",
+        "pokedexId": "003",
+        "height": "2.0 m",
+        "weight": "100.0 kg",
+        "level": 32,
+        "experience": 0,
+        "moves": ["Tackle", "Growl", "Leech Seed", "Vine Whip", "Poison Powder", "Sleep Powder", "Take Down", "Razor Leaf", "Sweet Scent", "Growth", "Double-Edge", "Petal Dance", "Solar Beam"],
+        "evolution": { "next": [] },
+        "baseStats": {
+            "hp": 80,
+            "attack": 82,
+            "defense": 83,
+            "specialAttack": 100,
+            "specialDefense": 100,
+            "speed": 80
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 45,
+        "baseFriendship": 70
+    },
+    "Charmander": {
+        "name": "Charmander",
+        "type": ["Fire"],
+        "species": "Lizard Pokemon",
+        "pokedexId": "004",
+        "height": "0.6 m",
+        "weight": "8.5 kg",
+        "level": 5,
+        "experience": 0,
+        "moves": ["Scratch", "Growl", "Ember"],
+        "evolution": { "next": [["005", "Level 16"]] },
+        "baseStats": {
+            "hp": 39,
+            "attack": 52,
+            "defense": 43,
+            "specialAttack": 60,
+            "specialDefense": 50,
+            "speed": 65
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 45,
+        "baseFriendship": 70
+    },
+    "Charmeleon": {
+        "name": "Charmeleon",
+        "type": ["Fire"],
+        "species": "Flame Pokemon",
+        "pokedexId": "005",
+        "height": "1.1 m",
+        "weight": "19.0 kg",
+        "level": 16,
+        "experience": 0,
+        "moves": ["Scratch", "Growl", "Ember", "Dragon Rage", "Scary Face", "Fire Fang", "Slash", "Flamethrower", "Fire Spin", "Thrash", "Dragon Claw"],
+        "evolution": { "next": [["006", "Level 36"]] },
+        "baseStats": {
+            "hp": 58,
+            "attack": 64,
+            "defense": 58,
+            "specialAttack": 80,
+            "specialDefense": 65,
+            "speed": 80
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 45,
+        "baseFriendship": 70
+    },
+    "Charizard": {
+        "name": "Charizard",
+        "type": ["Fire", "Flying"],
+        "species": "Flame Pokemon",
+        "pokedexId": "006",
+        "height": "1.7 m",
+        "weight": "90.5 kg",
+        "level": 36,
+        "experience": 0,
+        "moves": ["Scratch", "Growl", "Ember", "Dragon Rage", "Scary Face", "Fire Fang", "Slash", "Flamethrower", "Fire Spin", "Thrash", "Dragon Claw", "Wing Attack", "Fly", "Heat Wave"],
+        "evolution": { "next": [] },
+        "baseStats": {
+            "hp": 78,
+            "attack": 84,
+            "defense": 78,
+            "specialAttack": 109,
+            "specialDefense": 85,
+            "speed": 100
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 45,
+        "baseFriendship": 70
+    },
+    "Squirtle": {
+        "name": "Squirtle",
+        "type": ["Water"],
+        "species": "Tiny Turtle Pokemon",
+        "pokedexId": "007",
+        "height": "0.5 m",
+        "weight": "9.0 kg",
+        "level": 5,
+        "experience": 0,
+        "moves": ["Tackle", "Tail Whip", "Bubble"],
+        "evolution": { "next": [["008", "Level 16"]] },
+        "baseStats": {
+            "hp": 44,
+            "attack": 48,
+            "defense": 65,
+            "specialAttack": 50,
+            "specialDefense": 64,
+            "speed": 43
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 45,
+        "baseFriendship": 70
+    },
+    "Wartortle": {
+        "name": "Wartortle",
+        "type": ["Water"],
+        "species": "Turtle Pokemon",
+        "pokedexId": "008",
+        "height": "1.0 m",
+        "weight": "22.5 kg",
+        "level": 16,
+        "experience": 0,
+        "moves": ["Tackle", "Tail Whip", "Bubble", "Withdraw", "Water Gun", "Bite", "Rapid Spin", "Water Pulse", "Aqua Tail", "Skull Bash", "Hydro Pump"],
+        "evolution": { "next": [["009", "Level 36"]] },
+        "baseStats": {
+            "hp": 59,
+            "attack": 63,
+            "defense": 80,
+            "specialAttack": 65,
+            "specialDefense": 80,
+            "speed": 58
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 45,
+        "baseFriendship": 70
+    },
+    "Blastoise": {
+        "name": "Blastoise",
+        "type": ["Water"],
+        "species": "Shellfish Pokemon",
+        "pokedexId": "009",
+        "height": "1.6 m",
+        "weight": "85.5 kg",
+        "level": 36,
+        "experience": 0,
+        "moves": ["Tackle", "Tail Whip", "Bubble", "Withdraw", "Water Gun", "Bite", "Rapid Spin", "Water Pulse", "Aqua Tail", "Skull Bash", "Hydro Pump", "Flash Cannon", "Ice Beam", "Hyper Beam"],
+        "evolution": { "next": [] },
+        "baseStats": {
+            "hp": 79,
+            "attack": 83,
+            "defense": 100,
+            "specialAttack": 85,
+            "specialDefense": 105,
+            "speed": 78
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 45,
+        "baseFriendship": 70
+    },
+    "Caterpie": {
+        "name": "Caterpie",
+        "type": ["Bug"],
+        "species": "Worm Pokemon",
+        "pokedexId": "010",
+        "height": "0.3 m",
+        "weight": "2.9 kg",
+        "level": 5,
+        "experience": 0,
+        "moves": ["Tackle", "String Shot"],
+        "evolution": { "next": [["011", "Level 7"]] },
+        "baseStats": {
+            "hp": 45,
+            "attack": 30,
+            "defense": 35,
+            "specialAttack": 20,
+            "specialDefense": 20,
+            "speed": 45
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 255,
+        "baseFriendship": 70
+    },
+    "Metapod": {
+        "name": "Metapod",
+        "type": ["Bug"],
+        "species": "Cocoon Pokemon",
+        "pokedexId": "011",
+        "height": "0.7 m",
+        "weight": "9.9 kg",
+        "level": 7,
+        "experience": 0,
+        "moves": ["Harden"],
+        "evolution": { "next": [["012", "Level 10"]] },
+        "baseStats": {
+            "hp": 50,
+            "attack": 20,
+            "defense": 55,
+            "specialAttack": 25,
+            "specialDefense": 25,
+            "speed": 30
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 120,
+        "baseFriendship": 70
+    },
+    "Butterfree": {
+        "name": "Butterfree",
+        "type": ["Bug", "Flying"],
+        "species": "Butterfly Pokemon",
+        "pokedexId": "012",
+        "height": "1.1 m",
+        "weight": "32.0 kg",
+        "level": 10,
+        "experience": 0,
+        "moves": ["Tackle", "String Shot", "Poison Powder", "Stun Spore", "Sleep Powder", "Supersonic", "Confusion", "Gust", "Psybeam", "Silver Wind", "Safeguard", "Bug Buzz", "Quiver Dance", "Hurricane"],
+        "evolution": { "next": [] },
+        "baseStats": {
+            "hp": 60,
+            "attack": 45,
+            "defense": 50,
+            "specialAttack": 90,
+            "specialDefense": 80,
+            "speed": 70
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 45,
+        "baseFriendship": 70
+    },
+    "Weedle": {
+        "name": "Weedle",
+        "type": ["Bug", "Poison"],
+        "species": "Hairy Bug Pokemon",
+        "pokedexId": "013",
+        "height": "0.3 m",
+        "weight": "3.2 kg",
+        "level": 5,
+        "experience": 0,
+        "moves": ["Tackle", "Poison Sting"],
+        "evolution": { "next": [["014", "Level 7"]] },
+        "baseStats": {
+            "hp": 40,
+            "attack": 35,
+            "defense": 30,
+            "specialAttack": 20,
+            "specialDefense": 20,
+            "speed": 50
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 255,
+        "baseFriendship": 70
+    },
+    "Kakuna": {
+        "name": "Kakuna",
+        "type": ["Bug", "Poison"],
+        "species": "Cocoon Pokemon",
+        "pokedexId": "014",
+        "height": "0.6 m",
+        "weight": "10.0 kg",
+        "level": 7,
+        "experience": 0,
+        "moves": ["Harden"],
+        "evolution": { "next": [["015", "Level 10"]] },
+        "baseStats": {
+            "hp": 45,
+            "attack": 25,
+            "defense": 50,
+            "specialAttack": 25,
+            "specialDefense": 25,
+            "speed": 35
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 120,
+        "baseFriendship": 70
+    },
+    "Beedrill": {
+        "name": "Beedrill",
+        "type": ["Bug", "Poison"],
+        "species": "Poison Bee Pokemon",
+        "pokedexId": "015",
+        "height": "1.0 m",
+        "weight": "29.5 kg",
+        "level": 10,
+        "experience": 0,
+        "moves": ["Tackle", "Poison Sting", "Twineedle", "Rage", "Pursuit", "Fury Attack", "Pin Missile", "Agility", "Toxic", "Venoshock", "X-Scissor", "Aerial Ace", "U-turn", "Poison Jab"],
+        "evolution": { "next": [] },
+        "baseStats": {
+            "hp": 65,
+            "attack": 90,
+            "defense": 40,
+            "specialAttack": 45,
+            "specialDefense": 80,
+            "speed": 75
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 45,
+        "baseFriendship": 70
+    },
+    "Pidgey": {
+        "name": "Pidgey",
+        "type": ["Normal", "Flying"],
+        "species": "Tiny Bird Pokemon",
+        "pokedexId": "016",
+        "height": "0.3 m",
+        "weight": "1.8 kg",
+        "level": 5,
+        "experience": 0,
+        "moves": ["Tackle", "Sand Attack", "Gust", "Quick Attack", "Whirlwind", "Twister", "Wing Attack", "Roost", "Air Slash", "Tailwind", "Hurricane"],
+        "evolution": { "next": [["017", "Level 18"]] },
+        "baseStats": {
+            "hp": 40,
+            "attack": 45,
+            "defense": 40,
+            "specialAttack": 35,
+            "specialDefense": 35,
+            "speed": 56
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 255,
+        "baseFriendship": 70
+    },
+    "Pidgeotto": {
+        "name": "Pidgeotto",
+        "type": ["Normal", "Flying"],
+        "species": "Bird Pokemon",
+        "pokedexId": "017",
+        "height": "1.1 m",
+        "weight": "30.0 kg",
+        "level": 18,
+        "experience": 0,
+        "moves": ["Tackle", "Sand Attack", "Gust", "Quick Attack", "Whirlwind", "Twister", "Wing Attack", "Roost", "Air Slash", "Tailwind", "Hurricane"],
+        "evolution": { "next": [["018", "Level 36"]] },
+        "baseStats": {
+            "hp": 63,
+            "attack": 60,
+            "defense": 55,
+            "specialAttack": 50,
+            "specialDefense": 50,
+            "speed": 71
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 120,
+        "baseFriendship": 70
+    },
+    "Pidgeot": {
+        "name": "Pidgeot",
+        "type": ["Normal", "Flying"],
+        "species": "Bird Pokemon",
+        "pokedexId": "018",
+        "height": "1.5 m",
+        "weight": "39.5 kg",
+        "level": 36,
+        "experience": 0,
+        "moves": ["Tackle", "Sand Attack", "Gust", "Quick Attack", "Whirlwind", "Twister", "Wing Attack", "Roost", "Air Slash", "Tailwind", "Hurricane"],
+        "evolution": { "next": [] },
+        "baseStats": {
+            "hp": 83,
+            "attack": 80,
+            "defense": 75,
+            "specialAttack": 70,
+            "specialDefense": 70,
+            "speed": 101
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 45,
+        "baseFriendship": 70
+    },
+    "Rattata": {
+        "name": "Rattata",
+        "type": ["Normal"],
+        "species": "Mouse Pokemon",
+        "pokedexId": "019",
+        "height": "0.3 m",
+        "weight": "3.5 kg",
+        "level": 5,
+        "experience": 0,
+        "moves": ["Tackle", "Tail Whip", "Quick Attack", "Hyper Fang", "Super Fang", "Assurance", "Crunch", "Sucker Punch", "U-turn", "Facade", "Flame Charge", "Endeavor", "Double-Edge"],
+        "evolution": { "next": [["020", "Level 20"]] },
+        "baseStats": {
+            "hp": 30,
+            "attack": 56,
+            "defense": 35,
+            "specialAttack": 25,
+            "specialDefense": 35,
+            "speed": 72
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 255,
+        "baseFriendship": 70
+    },
+    "Rattatac": {
+        "name": "Rattatac",
+        "type": ["Normal"],
+        "species": "Mouse Pokemon",
+        "pokedexId": "020",
+        "height": "0.7 m",
+        "weight": "18.5 kg",
+        "level": 20,
+        "experience": 0,
+        "moves": ["Tackle", "Tail Whip", "Quick Attack", "Hyper Fang", "Super Fang", "Assurance", "Crunch", "Sucker Punch", "U-turn", "Facade", "Flame Charge", "Endeavor", "Double-Edge"],
+        "evolution": { "next": [] },
+        "baseStats": {
+            "hp": 55,
+            "attack": 81,
+            "defense": 60,
+            "specialAttack": 50,
+            "specialDefense": 70,
+            "speed": 97
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 127,
+        "baseFriendship": 70
+    },
+    "Spearow": {
+        "name": "Spearow",
+        "type": ["Normal", "Flying"],
+        "species": "Tiny Bird Pokemon",
+        "pokedexId": "021",
+        "height": "0.3 m",
+        "weight": "2.0 kg",
+        "level": 5,
+        "experience": 0,
+        "moves": ["Peck", "Growl", "Leer", "Fury Attack", "Drill Peck", "Aerial Ace", "Agility", "Mirror Move", "U-turn", "Facade", "Endeavor", "Double-Edge"],
+        "evolution": { "next": [["022", "Level 20"]] },
+        "baseStats": {
+            "hp": 40,
+            "attack": 60,
+            "defense": 30,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 70
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 255,
+        "baseFriendship": 70
+    },
+    "Fearow": {
+        "name": "Fearow",
+        "type": ["Normal", "Flying"],
+        "species": "Beak Pokemon",
+        "pokedexId": "022",
+        "height": "1.2 m",
+        "weight": "38.0 kg",
+        "level": 20,
+        "experience": 0,
+        "moves": ["Peck", "Growl", "Leer", "Fury Attack", "Drill Peck", "Aerial Ace", "Agility", "Mirror Move", "U-turn", "Facade", "Endeavor", "Double-Edge"],
+        "evolution": { "next": [] },
+        "baseStats": {
+            "hp": 65,
+            "attack": 90,
+            "defense": 65,
+            "specialAttack": 61,
+            "specialDefense": 61,
+            "speed": 100
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 90,
+        "baseFriendship": 70
+    },
+    "Ekans": {
+        "name": "Ekans",
+        "type": ["Poison"],
+        "species": "Snake Pokemon",
+        "pokedexId": "023",
+        "height": "2.0 m",
+        "weight": "6.9 kg",
+        "level": 5,
+        "experience": 0,
+        "moves": ["Wrap", "Leer", "Poison Sting", "Bite", "Glare", "Acid", "Screech", "Stockpile", "Swallow", "Spit Up", "Gastro Acid", "Haze", "Crunch", "Gunk Shot", "U-turn", "Facade", "Endeavor", "Double-Edge"],
+        "evolution": { "next": [["024", "Level 22"]] },
+        "baseStats": {
+            "hp": 35,
+            "attack": 60,
+            "defense": 44,
+            "specialAttack": 40,
+            "specialDefense": 54,
+            "speed": 55
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 255,
+        "baseFriendship": 70
+    },
+    "Arbok": {
+        "name": "Arbok",
+        "type": ["Poison"],
+        "species": "Cobra Pokemon",
+        "pokedexId": "024",
+        "height": "3.5 m",
+        "weight": "65.0 kg",
+        "level": 22,
+        "experience": 0,
+        "moves": ["Wrap", "Leer", "Poison Sting", "Bite", "Glare", "Acid", "Screech", "Stockpile", "Swallow", "Spit Up", "Gastro Acid", "Haze", "Crunch", "Gunk Shot", "U-turn", "Facade", "Endeavor", "Double-Edge"],
+        "evolution": { "next": [] },
+        "baseStats": {
+            "hp": 60,
+            "attack": 95,
+            "defense": 69,
+            "specialAttack": 65,
+            "specialDefense": 79,
+            "speed": 80
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 90,
+        "baseFriendship": 70
+    },
+    "Pikachu": {
+        "name": "Pikachu",
+        "type": ["Electric"],
+        "species": "Mouse Pokemon",
+        "pokedexId": "025",
+        "height": "0.4 m",
+        "weight": "6.0 kg",
+        "level": 5,
+        "experience": 0,
+        "moves": ["Thunder Shock", "Growl", "Tail Whip", "Quick Attack", "Double Team", "Slam", "Thunder Wave", "Thunderbolt", "Thunder", "Facade", "Endeavor", "Double-Edge"],
+        "evolution": { "next": [["026", "Level 16"]] },
+        "baseStats": {
+            "hp": 35,
+            "attack": 55,
+            "defense": 40,
+            "specialAttack": 50,
+            "specialDefense": 50,
+            "speed": 90
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 190,
+        "baseFriendship": 70
+    },
+    "Raichu": {
+        "name": "Raichu",
+        "type": ["Electric"],
+        "species": "Mouse Pokemon",
+        "pokedexId": "026",
+        "height": "0.8 m",
+        "weight": "30.0 kg",
+        "level": 16,
+        "experience": 0,
+        "moves": ["Thunder Shock", "Growl", "Tail Whip", "Quick Attack", "Double Team", "Slam", "Thunder Wave", "Thunderbolt", "Thunder", "Facade", "Endeavor", "Double-Edge"],
+        "evolution": { "next": [] },
+        "baseStats": {
+            "hp": 60,
+            "attack": 90,
+            "defense": 55,
+            "specialAttack": 90,
+            "specialDefense": 80,
+            "speed": 100
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 75,
+        "baseFriendship": 70
+    },
+    "Sandshrew": {
+        "name": "Sandshrew",
+        "type": ["Ground"],
+        "species": "Mouse Pokemon",
+        "pokedexId": "027",
+        "height": "0.6 m",
+        "weight": "12.0 kg",
+        "level": 5,
+        "experience": 0,
+        "moves": ["Scratch", "Defense Curl", "Sand Attack", "Poison Sting", "Swift", "Fury Swipes", "Slash", "Sand Tomb", "Fury Cutter", "Crush Claw", "Sandstorm", "Swift", "Gyro Ball", "Facade", "Endeavor", "Double-Edge"],
+        "evolution": { "next": [["028", "Level 22"]] },
+        "baseStats": {
+            "hp": 50,
+            "attack": 75,
+            "defense": 85,
+            "specialAttack": 20,
+            "specialDefense": 30,
+            "speed": 40
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 255,
+        "baseFriendship": 70
+    },
+    "Sandslash": {
+        "name": "Sandslash",
+        "type": ["Ground"],
+        "species": "Mouse Pokemon",
+        "pokedexId": "028",
+        "height": "1.0 m",
+        "weight": "29.5 kg",
+        "level": 22,
+        "experience": 0,
+        "moves": ["Scratch", "Defense Curl", "Sand Attack", "Poison Sting", "Swift", "Fury Swipes", "Slash", "Sand Tomb", "Fury Cutter", "Crush Claw", "Sandstorm", "Swift", "Gyro Ball", "Facade", "Endeavor", "Double-Edge"],
+        "evolution": { "next": [] },
+        "baseStats": {
+            "hp": 75,
+            "attack": 100,
+            "defense": 110,
+            "specialAttack": 45,
+            "specialDefense": 55,
+            "speed": 65
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 90,
+        "baseFriendship": 70
+    },
+    "Nidoran♀": {
+        "name": "Nidoran♀",
+        "type": ["Poison"],
+        "species": "Poison Pin Pokemon",
+        "pokedexId": "029",
+        "height": "0.4 m",
+        "weight": "7.0 kg",
+        "level": 5,
+        "experience": 0,
+        "moves": ["Peck", "Tail Whip", "Double Kick", "Poison Sting", "Horn Attack", "Fury Attack", "Horn Drill", "Toxic", "Double-Edge"],
+        "evolution": { "next": [["030", "Level 16"]] },
+        "baseStats": {
+            "hp": 55,
+            "attack": 47,
+            "defense": 52,
+            "specialAttack": 40,
+            "specialDefense": 40,
+            "speed": 41
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 235,
+        "baseFriendship": 70
+    },
+    "Nidorina": {
+        "name": "Nidorina",
+        "type": ["Poison"],
+        "species": "Poison Pin Pokemon",
+        "pokedexId": "030",
+        "height": "0.8 m",
+        "weight": "20.0 kg",
+        "level": 16,
+        "experience": 0,
+        "moves": ["Peck", "Tail Whip", "Double Kick", "Poison Sting", "Horn Attack", "Fury Attack", "Horn Drill", "Toxic", "Double-Edge"],
+        "evolution": { "next": [["031", "Level 36"]] },
+        "baseStats": {
+            "hp": 70,
+            "attack": 62,
+            "defense": 67,
+            "specialAttack": 55,
+            "specialDefense": 55,
+            "speed": 56
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 120,
+        "baseFriendship": 70
+    },
+    "Nidoqueen": {
+        "name": "Nidoqueen",
+        "type": ["Poison", "Ground"],
+        "species": "Drill Pokemon",
+        "pokedexId": "031",
+        "height": "1.3 m",
+        "weight": "60.0 kg",
+        "level": 36,
+        "experience": 0,
+        "moves": ["Peck", "Tail Whip", "Double Kick", "Poison Sting", "Horn Attack", "Fury Attack", "Horn Drill", "Toxic", "Double-Edge"],
+        "evolution": { "next": [] },
+        "baseStats": {
+            "hp": 90,
+            "attack": 92,
+            "defense": 87,
+            "specialAttack": 75,
+            "specialDefense": 85,
+            "speed": 76
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 45,
+        "baseFriendship": 70
+    },
+    "Nidoran♂": {
+        "name": "Nidoran♂",
+        "type": ["Poison"],
+        "species": "Poison Pin Pokemon",
+        "pokedexId": "032",
+        "height": "0.5 m",
+        "weight": "9.0 kg",
+        "level": 5,
+        "experience": 0,
+        "moves": ["Peck", "Tail Whip", "Double Kick", "Poison Sting", "Horn Attack", "Fury Attack", "Horn Drill", "Toxic", "Double-Edge"],
+        "evolution": { "next": [["033", "Level 16"]] },
+        "baseStats": {
+            "hp": 46,
+            "attack": 57,
+            "defense": 40,
+            "specialAttack": 40,
+            "specialDefense": 40,
+            "speed": 50
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 235,
+        "baseFriendship": 70
+    },
+    "Nidorino": {
+        "name": "Nidorino",
+        "type": ["Poison"],
+        "species": "Poison Pin Pokemon",
+        "pokedexId": "033",
+        "height": "0.9 m",
+        "weight": "19.5 kg",
+        "level": 16,
+        "experience": 0,
+        "moves": ["Peck", "Tail Whip", "Double Kick", "Poison Sting", "Horn Attack", "Fury Attack", "Horn Drill", "Toxic", "Double-Edge"],
+        "evolution": { "next": [["034", "Level 36"]] },
+        "baseStats": {
+            "hp": 61,
+            "attack": 72,
+            "defense": 57,
+            "specialAttack": 55,
+            "specialDefense": 55,
+            "speed": 65
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 120,
+        "baseFriendship": 70
+    },
+    "Nidoking": {
+        "name": "Nidoking",
+        "type": ["Poison", "Ground"],
+        "species": "Drill Pokemon",
+        "pokedexId": "034",
+        "height": "1.4 m",
+        "weight": "62.0 kg",
+        "level": 36,
+        "experience": 0,
+        "moves": ["Peck", "Tail Whip", "Double Kick", "Poison Sting", "Horn Attack", "Fury Attack", "Horn Drill", "Toxic", "Double-Edge"],
+        "evolution": { "next": [] },
+        "baseStats": {
+            "hp": 81,
+            "attack": 102,
+            "defense": 77,
+            "specialAttack": 85,
+            "specialDefense": 75,
+            "speed": 85
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 45,
+        "baseFriendship": 70
+    },
+    "Clefairy": {
+        "name": "Clefairy",
+        "type": ["Normal"],
+        "species": "Fairy Pokemon",
+        "pokedexId": "035",
+        "height": "0.6 m",
+        "weight": "7.5 kg",
+        "level": 5,
+        "experience": 0,
+        "moves": ["Pound", "Growl", "Sing", "Double Slap", "Defense Curl", "Light Screen", "Metronome", "Minimize", "Soft-Boiled", "Dizzy Punch", "Moonlight", "Cosmic Power", "Body Slam", "Take Down", "Double-Edge", "Mega Punch", "Mega Kick", "Pay Day", "Fire Punch", "Ice Punch", "Thunder Punch", "Scratch", "Stomp", "Headbutt", "Hyper Fang", "Karate Chop", "Bubble Beam", "Submission", "Counter", "Seismic Toss", "Rage", "Mega Drain", "Solar Beam", "Thunderbolt", "Thunder", "Earthquake", "Fissure", "Dig", "Toxic", "Psychic", "Agility", "Mimic", "Double Team", "Reflect", "Bide", "Metronome", "Self-Destruct", "Egg Bomb", "Fire Blast", "Swift", "Skull Bash", "Dream Eater", "Sky Attack", "Rest", "Substitute", "Thief", "Nightmare", "Snore", "Curse", "Flail", "Conversion", "Tri Attack", "Super Fang", "Slash", "Struggle"],
+        "evolution": { "next": [["036", "Level 16"]] },
+        "baseStats": {
+            "hp": 70,
+            "attack": 45,
+            "defense": 48,
+            "specialAttack": 60,
+            "specialDefense": 65,
+            "speed": 35
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 150,
+        "baseFriendship": 140
+    },
+    "Clefable": {
+        "name": "Clefable",
+        "type": ["Normal"],
+        "species": "Fairy Pokemon",
+        "pokedexId": "036",
+        "height": "1.3 m",
+        "weight": "40.0 kg",
+        "level": 16,
+        "experience": 0,
+        "moves": ["Pound", "Growl", "Sing", "Double Slap", "Defense Curl", "Light Screen", "Metronome", "Minimize", "Soft-Boiled", "Dizzy Punch", "Moonlight", "Cosmic Power", "Body Slam", "Take Down", "Double-Edge", "Mega Punch", "Mega Kick", "Pay Day", "Fire Punch", "Ice Punch", "Thunder Punch", "Scratch", "Stomp", "Headbutt", "Hyper Fang", "Karate Chop", "Bubble Beam", "Submission", "Counter", "Seismic Toss", "Rage", "Mega Drain", "Solar Beam", "Thunderbolt", "Thunder", "Earthquake", "Fissure", "Dig", "Toxic", "Psychic", "Agility", "Mimic", "Double Team", "Reflect", "Bide", "Metronome", "Self-Destruct", "Egg Bomb", "Fire Blast", "Swift", "Skull Bash", "Dream Eater", "Sky Attack", "Rest", "Substitute", "Thief", "Nightmare", "Snore", "Curse", "Flail", "Conversion", "Tri Attack", "Super Fang", "Slash", "Struggle"],
+        "evolution": { "next": [] },
+        "baseStats": {
+            "hp": 95,
+            "attack": 70,
+            "defense": 73,
+            "specialAttack": 95,
+            "specialDefense": 90,
+            "speed": 60
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0, 
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 25,
+        "baseFriendship": 140
+    },
+    "Vulpix": {
+        "name": "Vulpix",
+        "type": ["Fire"],
+        "species": "Fox Pokemon",
+        "pokedexId": "037",
+        "height": "0.6 m",
+        "weight": "9.9 kg",
+        "level": 5,
+        "experience": 0,
+        "moves": ["Ember", "Quick Attack", "Tail Whip", "Roar", "Bite", "Take Down", "Double-Edge", "Agility", "Flamethrower", "Dig", "Toxic", "Confuse Ray", "Psychic", "Mimic", "Double Team", "Reflect", "Bide", "Fire Blast", "Swift", "Skull Bash", "Rest", "Substitute", "Snore", "Curse", "Flamewheel", "Conversion", "Struggle"],
+        "evolution": { "next": [["038", "Level 16"]] },
+        "baseStats": {
+            "hp": 38,
+            "attack": 41,
+            "defense": 40,
+            "specialAttack": 50,
+            "specialDefense": 65,
+            "speed": 65
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 190,
+        "baseFriendship": 70
+    },
+    "Ninetales": {
+        "name": "Ninetales",
+        "type": ["Fire"],
+        "species": "Fox Pokemon",
+        "pokedexId": "038",
+        "height": "1.1 m",
+        "weight": "19.9 kg",
+        "level": 16,
+        "experience": 0,
+        "moves": ["Ember", "Quick Attack", "Tail Whip", "Roar", "Bite", "Take Down", "Double-Edge", "Agility", "Flamethrower", "Dig", "Toxic", "Confuse Ray", "Psychic", "Mimic", "Double Team", "Reflect", "Bide", "Fire Blast", "Swift", "Skull Bash", "Rest", "Substitute", "Snore", "Curse", "Flamewheel", "Conversion", "Struggle"],
+        "evolution": { "next": [] },
+        "baseStats": {
+            "hp": 73,
+            "attack": 76,
+            "defense": 75,
+            "specialAttack": 81,
+            "specialDefense": 100,
+            "speed": 100
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 75,
+        "baseFriendship": 70
+    },
+    "Jigglypuff": {
+        "name": "Jigglypuff",
+        "type": ["Normal"],
+        "species": "Balloon Pokemon",
+        "pokedexId": "039",
+        "height": "0.5 m",
+        "weight": "5.5 kg",
+        "level": 5,
+        "experience": 0,
+        "moves": ["Pound", "Sing", "Defense Curl", "Double Slap", "Disable", "Light Screen", "Rest", "Body Slam", "Take Down", "Double-Edge", "Mega Punch", "Mega Kick", "Pay Day", "Fire Punch", "Ice Punch", "Thunder Punch", "Scratch", "Stomp", "Headbutt", "Hyper Fang", "Karate Chop", "Bubble Beam", "Submission", "Counter", "Seismic Toss", "Rage", "Mega Drain", "Solar Beam", "Thunderbolt", "Thunder", "Earthquake", "Fissure", "Dig", "Toxic", "Psychic", "Agility", "Mimic", "Double Team", "Reflect", "Bide", "Metronome", "Self-Destruct", "Egg Bomb", "Fire Blast", "Swift", "Skull Bash", "Dream Eater", "Sky Attack", "Rest", "Substitute", "Thief", "Nightmare", "Snore", "Curse", "Flail", "Conversion", "Tri Attack", "Super Fang", "Slash", "Struggle"],
+        "evolution": { "next": [["040", "Level 16"]] },
+        "baseStats": {
+            "hp": 115,
+            "attack": 45,
+            "defense": 20,
+            "specialAttack": 45,
+            "specialDefense": 25,
+            "speed": 20
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 170,
+        "baseFriendship": 70
+    },
+    "Wigglytuff": {
+        "name": "Wigglytuff",
+        "type": ["Normal"],
+        "species": "Balloon Pokemon",
+        "pokedexId": "040",
+        "height": "1.0 m",
+        "weight": "12.0 kg",
+        "level": 16,
+        "experience": 0,
+        "moves": ["Pound", "Sing", "Defense Curl", "Double Slap", "Disable", "Light Screen", "Rest", "Body Slam", "Take Down", "Double-Edge", "Mega Punch", "Mega Kick", "Pay Day", "Fire Punch", "Ice Punch", "Thunder Punch", "Scratch", "Stomp", "Headbutt", "Hyper Fang", "Karate Chop", "Bubble Beam", "Submission", "Counter", "Seismic Toss", "Rage", "Mega Drain", "Solar Beam", "Thunderbolt", "Thunder", "Earthquake", "Fissure", "Dig", "Toxic", "Psychic", "Agility", "Mimic", "Double Team", "Reflect", "Bide", "Metronome", "Self-Destruct", "Egg Bomb", "Fire Blast", "Swift", "Skull Bash", "Dream Eater", "Sky Attack", "Rest", "Substitute", "Thief", "Nightmare", "Snore", "Curse", "Flail", "Conversion", "Tri Attack", "Super Fang", "Slash", "Struggle"],
+        "evolution": { "next": [] },
+        "baseStats": {
+            "hp": 140,
+            "attack": 70,
+            "defense": 45,
+            "specialAttack": 85,
+            "specialDefense": 50,
+            "speed": 45
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 50,
+        "baseFriendship": 70
+    },
+    "Zubat": {
+        "name": "Zubat",
+        "type": ["Poison", "Flying"],
+        "species": "Bat Pokemon",
+        "pokedexId": "041",
+        "height": "0.8 m",
+        "weight": "7.5 kg",
+        "level": 5,
+        "experience": 0,
+        "moves": ["Absorb", "Leer", "Supersonic", "Screech", "Bite", "Confuse Ray", "Wing Attack", "Swift", "Toxic", "Agility", "Mimic", "Double Team", "Bide", "Swift", "Rest", "Substitute", "Snore", "Curse", "Conversion", "Struggle"],
+        "evolution": { "next": [["042", "Level 22"]] },
+        "baseStats": {
+            "hp": 40,
+            "attack": 45,
+            "defense": 35,
+            "specialAttack": 30,
+            "specialDefense": 40,
+            "speed": 55
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 255,
+        "baseFriendship": 70
+    },
+    "Golbat": {
+        "name": "Golbat",
+        "type": ["Poison", "Flying"],
+        "species": "Bat Pokemon",
+        "pokedexId": "042",
+        "height": "1.6 m",
+        "weight": "55.0 kg",
+        "level": 22,
+        "experience": 0,
+        "moves": ["Absorb", "Leer", "Supersonic", "Screech", "Bite", "Confuse Ray", "Wing Attack", "Swift", "Toxic", "Agility", "Mimic", "Double Team", "Bide", "Swift", "Rest", "Substitute", "Snore", "Curse", "Conversion", "Struggle"],
+        "evolution": { "next": [] },
+        "baseStats": {
+            "hp": 75,
+            "attack": 80,
+            "defense": 70,
+            "specialAttack": 65,
+            "specialDefense": 75,
+            "speed": 90
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 90,
+        "baseFriendship": 70
+    },
+    "Oddish": {
+        "name": "Oddish",
+        "type": ["Grass", "Poison"],
+        "species": "Weed Pokemon",
+        "pokedexId": "043",
+        "height": "0.5 m",
+        "weight": "5.4 kg",
+        "level": 5,
+        "experience": 0,
+        "moves": ["Absorb", "Poison Powder", "Stun Spore", "Sleep Powder", "Acid", "Mega Drain", "Razor Leaf", "Solar Beam", "Toxic", "Agility", "Mimic", "Double Team", "Bide", "Self-Destruct", "Egg Bomb", "Fire Blast", "Swift", "Skull Bash", "Dream Eater", "Rest", "Substitute", "Snore", "Curse", "Flail", "Conversion", "Struggle"],
+        "evolution": { "next": [["044", "Level 21"], ["045", "Level 21"]] },
+        "baseStats": {
+            "hp": 45,
+            "attack": 50,
+            "defense": 55,
+            "specialAttack": 75,
+            "specialDefense": 65,
+            "speed": 30
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 255,
+        "baseFriendship": 70
+    },
+    "Gloom": {
+        "name": "Gloom",
+        "type": ["Grass", "Poison"],
+        "species": "Weed Pokemon",
+        "pokedexId": "044",
+        "height": "0.8 m",
+        "weight": "8.6 kg",
+        "level": 21,
+        "experience": 0,
+        "moves": ["Absorb", "Poison Powder", "Stun Spore", "Sleep Powder", "Acid", "Mega Drain", "Razor Leaf", "Solar Beam", "Toxic", "Agility", "Mimic", "Double Team", "Bide", "Self-Destruct", "Egg Bomb", "Fire Blast", "Swift", "Skull Bash", "Dream Eater", "Rest", "Substitute", "Snore", "Curse", "Flail", "Conversion", "Struggle"],
+        "evolution": { "next": [["182", "Stone"]] },
+        "baseStats": {
+            "hp": 60,
+            "attack": 65,
+            "defense": 70,
+            "specialAttack": 85,
+            "specialDefense": 75,
+            "speed": 40
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 120,
+        "baseFriendship": 70
+    },
+    "Vileplume": {
+        "name": "Vileplume",
+        "type": ["Grass", "Poison"],
+        "species": "Flower Pokemon",
+        "pokedexId": "045",
+        "height": "1.2 m",
+        "weight": "18.6 kg",
+        "level": 21,
+        "experience": 0,
+        "moves": ["Absorb", "Poison Powder", "Stun Spore", "Sleep Powder", "Acid", "Mega Drain", "Razor Leaf", "Solar Beam", "Toxic", "Agility", "Mimic", "Double Team", "Bide", "Self-Destruct", "Egg Bomb", "Fire Blast", "Swift", "Skull Bash", "Dream Eater", "Rest", "Substitute", "Snore", "Curse", "Flail", "Conversion", "Struggle"],
+        "evolution": { "next": [["182", "Stone"]] },
+        "baseStats": {
+            "hp": 75,
+            "attack": 80,
+            "defense": 85,
+            "specialAttack": 110,
+            "specialDefense": 90,
+            "speed": 50
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 45,
+        "baseFriendship": 70
+    },
+    "Paras": {
+        "name": "Paras",
+        "type": ["Bug", "Grass"],
+        "species": "Mushroom Pokemon",
+        "pokedexId": "046",
+        "height": "0.3 m",
+        "weight": "5.4 kg",
+        "level": 5,
+        "experience": 0,
+        "moves": ["Scratch", "Stun Spore", "Poison Powder", "Sleep Powder", "Slash", "Spore", "Growth", "Stun Spore", "Poison Powder", "Sleep Powder", "Slash", "Spore", "Growth", "Toxic", "Rage", "Mimic", "Double Team", "Bide", "Self-Destruct", "Egg Bomb", "Fire Blast", "Swift", "Skull Bash", "Dream Eater", "Rest", "Substitute", "Snore", "Curse", "Conversion", "Struggle"],
+        "evolution": { "next": [["047", "Level 24"]] },
+        "baseStats": {
+            "hp": 35,
+            "attack": 70,
+            "defense": 55,
+            "specialAttack": 45,
+            "specialDefense": 55,
+            "speed": 25
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 190,
+        "baseFriendship": 70
+    },
+    "Parasect": {
+        "name": "Parasect",
+        "type": ["Bug", "Grass"],
+        "species": "Mushroom Pokemon",
+        "pokedexId": "047",
+        "height": "1.0 m",
+        "weight": "29.5 kg",
+        "level": 24,
+        "experience": 0,
+        "moves": ["Scratch", "Stun Spore", "Poison Powder", "Sleep Powder", "Slash", "Spore", "Growth", "Stun Spore", "Poison Powder", "Sleep Powder", "Slash", "Spore", "Growth", "Toxic", "Rage", "Mimic", "Double Team", "Bide", "Self-Destruct", "Egg Bomb", "Fire Blast", "Swift", "Skull Bash", "Dream Eater", "Rest", "Substitute", "Snore", "Curse", "Conversion", "Struggle"],
+        "evolution": { "next": [["182", "Stone"]] },
+        "baseStats": {
+            "hp": 60,
+            "attack": 95,
+            "defense": 80,
+            "specialAttack": 60,
+            "specialDefense": 80,
+            "speed": 30
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 75,
+        "baseFriendship": 70
+    },
+    "Venonat": {
+        "name": "Venonat",
+        "type": ["Bug", "Poison"],
+        "species": "Insect Pokemon",
+        "pokedexId": "048",
+        "height": "1.0 m",
+        "weight": "30.0 kg",
+        "level": 5,
+        "experience": 0,
+        "moves": ["Tackle", "Disable", "Poison Powder", "Stun Spore", "Sleep Powder", "Psybeam", "Supersonic", "Leech Life", "Toxic", "Rage", "Mimic", "Double Team", "Bide", "Self-Destruct", "Egg Bomb", "Fire Blast", "Swift", "Skull Bash", "Dream Eater", "Rest", "Substitute", "Snore", "Curse", "Conversion", "Struggle"],
+        "evolution": { "next": [["049", "Level 31"]] },
+        "baseStats": {
+            "hp": 60,
+            "attack": 55,
+            "defense": 50,
+            "specialAttack": 40,
+            "specialDefense": 55,
+            "speed": 45
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 190,
+        "baseFriendship": 70
+    },
+    "Venomoth": {
+        "name": "Venomoth",
+        "type": ["Bug", "Poison"],
+        "species": "Poison Moth Pokemon",
+        "pokedexId": "049",
+        "height": "1.5 m",
+        "weight": "12.5 kg",
+        "level": 31,
+        "experience": 0,
+        "moves": ["Tackle", "Disable", "Poison Powder", "Stun Spore", "Sleep Powder", "Psybeam", "Supersonic", "Leech Life", "Toxic", "Rage", "Mimic", "Double Team", "Bide", "Self-Destruct", "Egg Bomb", "Fire Blast", "Swift", "Skull Bash", "Dream Eater", "Rest", "Substitute", "Snore", "Curse", "Conversion", "Struggle"],
+        "evolution": { "next": [["182", "Stone"]] },
+        "baseStats": {
+            "hp": 70,
+            "attack": 65,
+            "defense": 60,
+            "specialAttack": 90,
+            "specialDefense": 75,
+            "speed": 90
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 75,
+        "baseFriendship": 70
+    },
+    "Diglett": {
+        "name": "Diglett",
+        "type": ["Ground"],
+        "species": "Mole Pokemon",
+        "pokedexId": "050",
+        "height": "0.2 m",
+        "weight": "0.8 kg",
+        "level": 5,
+        "experience": 0,
+        "moves": ["Scratch", "Growl", "Dig", "Mud-Slap", "Slash", "Earthquake", "Fissure", "Toxic", "Rage", "Mimic", "Double Team", "Bide", "Self-Destruct", "Egg Bomb", "Fire Blast", "Swift", "Skull Bash", "Dream Eater", "Rest", "Substitute", "Snore", "Curse", "Conversion", "Struggle"],
+        "evolution": { "next": [["051", "Level 26"]] },
+        "baseStats": {
+            "hp": 10,
+            "attack": 55,
+            "defense": 25,
+            "specialAttack": 35,
+            "specialDefense": 45,
+            "speed": 95
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 255,
+        "baseFriendship": 70
+    },
+    "Dugtrio": {
+        "name": "Dugtrio",
+        "type": ["Ground"],
+        "species": "Mole Pokemon",
+        "pokedexId": "051",
+        "height": "0.7 m",
+        "weight": "33.3 kg",
+        "level": 26,
+        "experience": 0,
+        "moves": ["Scratch", "Growl", "Dig", "Mud-Slap", "Slash", "Earthquake", "Fissure", "Toxic", "Rage", "Mimic", "Double Team", "Bide", "Self-Destruct", "Egg Bomb", "Fire Blast", "Swift", "Skull Bash", "Dream Eater", "Rest", "Substitute", "Snore", "Curse", "Conversion", "Struggle"],
+        "evolution": { "next": [["182", "Stone"]] },
+        "baseStats": {
+            "hp": 35,
+            "attack": 100,
+            "defense": 50,
+            "specialAttack": 50,
+            "specialDefense": 70,
+            "speed": 120
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 50,
+        "baseFriendship": 70
+    },
+    "Meowth": {
+        "name": "Meowth",
+        "type": ["Normal"],
+        "species": "Scratch Cat Pokemon",
+        "pokedexId": "052",
+        "height": "0.4 m",
+        "weight": "4.2 kg",
+        "level": 5,
+        "experience": 0,
+        "moves": ["Scratch", "Growl", "Bite", "Pay Day", "Fury Swipes", "Screech", "Slash", "Faint Attack", "Toxic", "Rage", "Mimic", "Double Team", "Bide", "Self-Destruct", "Egg Bomb", "Fire Blast", "Swift", "Skull Bash", "Dream Eater", "Rest", "Substitute", "Snore", "Curse", "Conversion", "Struggle"],
+        "evolution": { "next": [["053", "Level 28"]] },
+        "baseStats": {
+            "hp": 40,
+            "attack": 45,
+            "defense": 35,
+            "specialAttack": 40,
+            "specialDefense": 40,
+            "speed": 90
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 255,
+        "baseFriendship": 70
+    },
+    "Persian": {
+        "name": "Persian",
+        "type": ["Normal"],
+        "species": "Classy Cat Pokemon",
+        "pokedexId": "053",
+        "height": "1.0 m",
+        "weight": "32.0 kg",
+        "level": 28,
+        "experience": 0,
+        "moves": ["Scratch", "Growl", "Bite", "Pay Day", "Fury Swipes", "Screech", "Slash", "Faint Attack", "Toxic", "Rage", "Mimic", "Double Team", "Bide", "Self-Destruct", "Egg Bomb", "Fire Blast", "Swift", "Skull Bash", "Dream Eater", "Rest", "Substitute", "Snore", "Curse", "Conversion", "Struggle"],
+        "evolution": { "next": [["182", "Stone"]] },
+        "baseStats": {
+            "hp": 65,
+            "attack": 70,
+            "defense": 60,
+            "specialAttack": 65,
+            "specialDefense": 65,
+            "speed": 115
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 90,
+        "baseFriendship": 70
+    },
+    "Psyduck": {
+        "name": "Psyduck",
+        "type": ["Water"],
+        "species": "Duck Pokemon",
+        "pokedexId": "054",
+        "height": "0.8 m",
+        "weight": "19.6 kg",
+        "level": 5,
+        "experience": 0,
+        "moves": ["Scratch", "Growl", "Water Gun", "Disable", "Confusion", "Headbutt", "Psychic", "Ice Beam", "Blizzard", "Hyper Beam", "Toxic", "Rage", "Mimic", "Double Team", "Bide", "Self-Destruct", "Egg Bomb", "Fire Blast", "Swift", "Skull Bash", "Dream Eater", "Rest", "Substitute", "Snore", "Curse", "Conversion", "Struggle"],
+        "evolution": { "next": [["055", "Level 33"]] },
+        "baseStats": {
+            "hp": 50,
+            "attack": 52,
+            "defense": 48,
+            "specialAttack": 65,
+            "specialDefense": 50,
+            "speed": 55
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 190,
+        "baseFriendship": 70
+    },
+    "Golduck": {
+        "name": "Golduck",
+        "type": ["Water"],
+        "species": "Duck Pokemon",
+        "pokedexId": "055",
+        "height": "1.7 m",
+        "weight": "76.6 kg",
+        "level": 33,
+        "experience": 0,
+        "moves": ["Scratch", "Growl", "Water Gun", "Disable", "Confusion", "Headbutt", "Psychic", "Ice Beam", "Blizzard", "Hyper Beam", "Toxic", "Rage", "Mimic", "Double Team", "Bide", "Self-Destruct", "Egg Bomb", "Fire Blast", "Swift", "Skull Bash", "Dream Eater", "Rest", "Substitute", "Snore", "Curse", "Conversion", "Struggle"],
+        "evolution": { "next": [["182", "Stone"]] },
+        "baseStats": {
+            "hp": 80,
+            "attack": 82,
+            "defense": 78,
+            "specialAttack": 95,
+            "specialDefense": 80,
+            "speed": 85
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 75,
+        "baseFriendship": 70
+    }
+
+
+}

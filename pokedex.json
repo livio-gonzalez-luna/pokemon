@@ -1,0 +1,156 @@
+{
+    "Bulbasaur": {
+        "name": "Bulbasaur",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "species": "Seed Pokemon",
+        "pokedexId": "001",
+        "height": "0.7 m",
+        "weight": "6.9 kg",
+        "level": 5,
+        "experience": 0,
+        "moves": [
+            "Tackle",
+            "Growl",
+            "Leech Seed"
+        ],
+        "evolution": {
+            "next": [
+                [
+                    "002",
+                    "Level 16"
+                ]
+            ]
+        },
+        "baseStats": {
+            "hp": 45,
+            "attack": 49,
+            "defense": 49,
+            "specialAttack": 65,
+            "specialDefense": 65,
+            "speed": 45
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 45,
+        "baseFriendship": 70
+    },
+    "Charmander": {
+        "name": "Charmander",
+        "type": [
+            "Fire"
+        ],
+        "species": "Lizard Pokemon",
+        "pokedexId": "004",
+        "height": "0.6 m",
+        "weight": "8.5 kg",
+        "level": 5,
+        "experience": 0,
+        "moves": [
+            "Scratch",
+            "Growl",
+            "Ember"
+        ],
+        "evolution": {
+            "next": [
+                [
+                    "005",
+                    "Level 16"
+                ]
+            ]
+        },
+        "baseStats": {
+            "hp": 39,
+            "attack": 52,
+            "defense": 43,
+            "specialAttack": 60,
+            "specialDefense": 50,
+            "speed": 65
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 45,
+        "baseFriendship": 70
+    },
+    "Squirtle": {
+        "name": "Squirtle",
+        "type": [
+            "Water"
+        ],
+        "species": "Tiny Turtle Pokemon",
+        "pokedexId": "007",
+        "height": "0.5 m",
+        "weight": "9.0 kg",
+        "level": 5,
+        "experience": 0,
+        "moves": [
+            "Tackle",
+            "Tail Whip",
+            "Bubble"
+        ],
+        "evolution": {
+            "next": [
+                [
+                    "008",
+                    "Level 16"
+                ]
+            ]
+        },
+        "baseStats": {
+            "hp": 44,
+            "attack": 48,
+            "defense": 65,
+            "specialAttack": 50,
+            "specialDefense": 64,
+            "speed": 43
+        },
+        "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defense": 31,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 31
+        },
+        "evs": {
+            "hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "specialAttack": 0,
+            "specialDefense": 0,
+            "speed": 0
+        },
+        "catchRate": 45,
+        "baseFriendship": 70
+    }
+}
